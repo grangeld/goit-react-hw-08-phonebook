@@ -1,7 +1,8 @@
 {
-  "name": "goit-react-hw-09-phonebook",
-  "version": "0.1.2",
+  "name": "goit-react-hw-08-phonebook",
+  "version": "0.1.3",
   "private": true,
+  "homepage": "https://grangeld.github.io/goit-react-hw-08-phonebook",
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
     "@testing-library/jest-dom": "^5.11.9",

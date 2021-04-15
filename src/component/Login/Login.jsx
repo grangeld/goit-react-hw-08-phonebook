@@ -1,6 +1,6 @@
 import s from './login.module.css';
 import React, { useState } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+import { useDispatch } from 'react-redux';
 import { login } from '../../redux/user/operations';
 // import { useDispatch } from 'react-redux';
 // import contactOperation from '../../redux/contacts/contacts-operations';

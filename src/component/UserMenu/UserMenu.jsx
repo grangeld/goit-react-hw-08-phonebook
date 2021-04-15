@@ -1,5 +1,4 @@
 import { useSelector, useDispatch } from 'react-redux';
-import { useEffect } from 'react';
 import LogoutButton from '../Logout';
 import s from './userMenu.module.css';
 import { getCurrenUser } from '../../redux/user/operations';
