@@ -1,0 +1,10 @@
+.menu {
+  margin-left: 300px;
+  /* margin-right: 250px; */
+  display: inline;
+}
+
+.email {
+  margin-right: 25px;
+  color: rgb(103, 81, 182);
+}

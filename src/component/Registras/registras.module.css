@@ -1,0 +1,49 @@
+.decor {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  height: 350px;
+  margin: 0px auto 0;
+  background: white;
+  border-radius: 30px;
+  padding-top: 25px;
+  padding-left: 15px;
+  padding-right: 50px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
+
+.label input {
+  display: block;
+  width: 100%;
+  padding: 0 20px;
+  margin-bottom: 10px;
+  background: #e9eff6;
+  line-height: 40px;
+  border-width: 0;
+  border-radius: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.buttonSubmit {
+  margin-top: 15px;
+  background: #f69a73;
+  border-bottom: 4px solid #d87d56;
+  color: white;
+  font-size: 14px;
+  line-height: 40px;
+  border-width: 0;
+  border-radius: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.heading {
+  color: aliceblue;
+  text-align: center;
+  font-size: 34px;
+}

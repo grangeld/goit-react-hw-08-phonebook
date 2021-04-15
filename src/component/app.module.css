@@ -1,0 +1,12 @@
+.heading {
+  color: aliceblue;
+  text-align: center;
+  font-size: 34px;
+}
+
+.contact {
+  display: block;
+  max-width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}

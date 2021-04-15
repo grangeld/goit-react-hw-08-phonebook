@@ -1,0 +1,9 @@
+.button {
+  /* margin-left: auto; */
+}
+
+.list {
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: space-between;
+}
