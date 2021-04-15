@@ -9,8 +9,8 @@ const Login = () => {
   const dispatch = useDispatch();
   // const phoneList = useSelector(state => state.user.token);
 
-  const [email, setEmail] = useState('h@h.ha');
-  const [password, setPassword] = useState('1111111');
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
 
   const handleSubmit = event => {
     event.preventDefault();
